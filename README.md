@@ -1,0 +1,1 @@
+# Automatic-Image-Segmentation-and-Captioning-for-Automatically-Generating-Captions-in-Gujarati
